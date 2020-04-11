@@ -1,7 +1,7 @@
 # Site settings
 title: PLGN
-email: your-email@domain.com
-url: https://example.github.io
+email: hello@plgn.org
+url: https://plgn.org
 description: "открытая лаборатория для экспериментов и обучения в области искусства и технологий"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -10,7 +10,7 @@ color:
   links: '#219ab3'
 
 # Footer settings
-footer: Your Website
+footer: PLGN
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
