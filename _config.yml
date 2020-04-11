@@ -14,16 +14,14 @@ footer: Your Website
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: https://twitter.com/SBootstrap
-  - title: facebook
-    url:
+  - title: instagram
+    url: https://instagram.com/plgnlab
+  - title: notion
+    url: https://www.notion.so/PLGN-DATABASE-3981132db6b948b282c7aa3afd02c466
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/plgn
 
 # Build settings
 markdown: kramdown
