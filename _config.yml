@@ -20,6 +20,8 @@ social:
     url: https://www.notion.so/PLGN-DATABASE-3981132db6b948b282c7aa3afd02c466
   - title: github
     url: https://github.com/plgn
+  - title: youtube
+    url: https://www.youtube.com/channel/UCGbmOgqKtSHr0JRqq7oVBKg
 
 # Build settings
 markdown: kramdown
